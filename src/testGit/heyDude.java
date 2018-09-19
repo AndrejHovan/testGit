@@ -8,7 +8,8 @@ public class heyDude {
 		for (int i = 0; i < 5; i++) {
 			System.out.println("testing, testing, 1 2 3..");
 		}
-
+		
+		// ta posupacili sme..
 	}
 
 }
